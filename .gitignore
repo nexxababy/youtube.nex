@@ -1,0 +1,14 @@
+# vscode
+
+.vscode
+.cursor
+# python
+
+__pycache__
+dist
+
+# testing
+
+test2/
+*.json
+*.html
